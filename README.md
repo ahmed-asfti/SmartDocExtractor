@@ -13,7 +13,7 @@ Add the dependency to your module's `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("com.github.ahmedalsafti:smart-doc-extractor:1.0.0")
+    implementation("com.github.ahmed-alsafti:smart-doc-extractor:1.0.0")
 }
 ```
 
